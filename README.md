@@ -15,3 +15,4 @@ git merge feature/css
 git push
 git add .
 git commit -m "git command"
+git push origin development
